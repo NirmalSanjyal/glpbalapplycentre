@@ -123,7 +123,7 @@ const ContactSection = () => {
             {/* Google Map */}
             <div className="rounded-lg overflow-hidden border border-border">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3532.6962890394447!2d85.3240!3d27.6944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb198a307baabf%3A0xb5137c1bf18db1ea!2sBaneshwor%2C%20Kathmandu%2044600%2C%20Nepal!5e0!3m2!1sen!2sus!4v1635000000000!5m2!1sen!2sus"
+                src="https://www.google.com/maps/place/Educare+-+Abroad+Saathi/@27.6894791,85.3344023,18z/data=!4m6!3m5!1s0x39eb190075b605ab:0x81078e955cbd5a02!8m2!3d27.6895423!4d85.3351062!16s%2Fg%2F11l_5177x5?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D"
                 width="100%"
                 height="250"
                 style={{ border: 0 }}
